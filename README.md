@@ -1,10 +1,12 @@
-<center>
-![money-emoji](./public/money-with-wings.png)
+<div align="center"> 
+ 
+![](https://raw.githubusercontent.com/guidani/out-of-money/main/public/money-with-wings.png)
 
 # OUT OF MONEY
-</center>
 
-## Roadmap
+</div>
+
+## 🎯Roadmap
 
 ### Design
 ⬜ Criar Design WEB \
